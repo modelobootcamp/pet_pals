@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "pet_pals",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
