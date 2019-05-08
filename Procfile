@@ -1,0 +1,1 @@
+web: gunicorn -b:$PORT pet_pals.app:app
